@@ -1,0 +1,21 @@
+{
+    "HOME": {
+        "TITLE": "Construa agora seu Mange Bot!",
+        "ORDER": "Quero o meu!"
+    },
+    "FOOTER": {
+        "TECHNOLOGY": "Crie seu robô com o máximo de tecnologia!",
+        "PLATFORM": "A platafoma mais amada do Brasil!",
+        "SUPPORT": "Atendimento online 24hrs!"
+    },
+    "MENU":{
+        "HOME": "Início",
+        "BUILD": "Construir",
+        "CART": "Carrinho",
+        "ABOUT": "Sobre"
+    },
+    "BUILD":{
+        "TITLE": "Personalize seu Robô!",
+        "ADD_CART": "Adicionar no Carrinho"
+    }
+}
